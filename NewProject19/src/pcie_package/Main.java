@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		System.out.println(" ---our parents did't have a domestic applianses like microwawes and dishwahers");
-
+		System.out.println("previuos message must be replace with next");
 		System.out.println("when we were young,");
 		System.out.println("hibrid");
 
